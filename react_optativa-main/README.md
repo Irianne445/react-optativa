@@ -1,5 +1,5 @@
 # react_optativa
-German Barreiro Flores 301
+Irianne Lores Calvo 40l
 
 use esta credenciales para el login 
 {
